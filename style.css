@@ -25,6 +25,7 @@ footer {
     background-color: #1c1c1c;
     color: white;
     font-family: 'Poppins', sans-serif;
+    border-radius:10px;
 }
 
 footer img {
@@ -84,6 +85,7 @@ img:hover {
     letter-spacing: 1px;
     margin-bottom: 10px;
     padding: 5px;
+    border-radius:10px;
 }
 
 
@@ -100,6 +102,7 @@ img:hover {
 
 .bottom-container {
     padding-top: 10px;
+    
 }
 
 .f-text {
